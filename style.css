@@ -1,0 +1,42 @@
+/* General */
+body{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background: #021436;
+    color: whitesmoke
+}
+
+/* Header */
+
+.title {
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    text-shadow: 5px 0 #2c2e30;
+    color: #239C16;
+}
+
+/* Game area */
+
+.game-area{
+    padding: 4rem 0;
+    margin: 0 10rem; /*to push shit a bit more to the center*/
+}
+
+.player-title{
+    margin-bottom: 2rem;
+}
+
+img {
+    height: 150px;
+    text-shadow: 5px 0 #2c2e30;
+
+}
+
+.btn{
+    margin: 4rem 0 0;
+}
+
+/* Footer */
+.footer{
+    /* padding: 4rem; */
+}
